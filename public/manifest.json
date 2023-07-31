@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Habitica Task Helper",
+  "description": "Manage your tasks in a single place",
+  "version": "1.0.0",
+  "action": {
+    "default_icon": "logo.png",
+    "default_popup": "popup.html"
+  }
+}
